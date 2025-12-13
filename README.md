@@ -32,7 +32,7 @@ Models used (you can modify based on your project):
 - SVM  
 - LSTM (Optional – Deep Learning version)
 
-Final model used: **Logistic Regression / SVM / LSTM** (choose the one you used)
+Final model used: **Logistic Regression / SVM / LSTM
 
 ### **3. Prediction Pipeline**
 - User enters text  
