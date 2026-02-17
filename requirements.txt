@@ -5,4 +5,4 @@
  nltk 
  joblib
  streamlit
- protobuf==3.20.3
+
